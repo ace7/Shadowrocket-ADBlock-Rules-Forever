@@ -458,3 +458,18 @@ mc-heads.net
 # 越狱下载源加速
 apt.thebigboss.org
 repo.chariz.com
+
+# Apple Private Relay & Maps
+gspe1-ssl.ls.apple.com
+apple-relay.cloudflare.com
+apple-relay.apple.com
+
+# Anthropic Claude
+claude.ai
+anthropic.com
+
+# Cloudflare Turnstile
+turnstile.cloudflare.com
+
+# Statsig
+statsig.com
