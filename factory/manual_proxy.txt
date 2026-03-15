@@ -467,9 +467,14 @@ apple-relay.apple.com
 # Anthropic Claude
 claude.ai
 anthropic.com
+anthropic.s3.amazonaws.com
 
 # Cloudflare Turnstile
 turnstile.cloudflare.com
 
 # Statsig
 statsig.com
+
+# Z-Library
+zlibrary-global.se
+cdn-zlib.se
