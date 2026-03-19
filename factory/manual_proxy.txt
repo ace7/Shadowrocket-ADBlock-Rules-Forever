@@ -468,6 +468,11 @@ apple-relay.apple.com
 claude.ai
 anthropic.com
 anthropic.s3.amazonaws.com
+siftscience.com
+app-analytics-services.com
+browser-intake-us5-datadoghq.com
+o1158394.ingest.us.sentry.io
+gstatic.com
 
 # Cloudflare Turnstile
 turnstile.cloudflare.com
@@ -478,3 +483,7 @@ statsig.com
 # Z-Library
 zlibrary-global.se
 cdn-zlib.se
+
+# Google Services
+googletagmanager.com
+googleadservices.com
