@@ -463,6 +463,7 @@ repo.chariz.com
 gspe1-ssl.ls.apple.com
 apple-relay.cloudflare.com
 apple-relay.apple.com
+news-client-search.apple.com
 
 # Anthropic Claude
 claude.ai
