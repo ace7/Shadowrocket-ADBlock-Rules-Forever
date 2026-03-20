@@ -125,25 +125,25 @@ alidns.com
 doh.pub
 
 # 其他常用直连域名
-#qq.com
-#xhscdn.com
-#xiaohongshu.com
-#skytigris.cn
-#qq.com.cn
-#hp.com
-#alipay.com
-#xiaohu8.com
-#weixinbridge.com
-#tngdigital.com.my
-#taobao.com
-#smoot.apple.cn
-#qpic.cn
-#qlogo.cn
-#kuiniuca.com
-#jpush.cn
-#huajifen.com
-#baidu.com
-#app-analytics-services.com
-#alipayobjects.com
-#alipay.com.cn
+qq.com
+xhscdn.com
+xiaohongshu.com
+skytigris.cn
+qq.com.cn
+hp.com
+alipay.com
+xiaohu8.com
+weixinbridge.com
+tngdigital.com.my
+taobao.com
+smoot.apple.cn
+qpic.cn
+qlogo.cn
+kuiniuca.com
+jpush.cn
+huajifen.com
+baidu.com
+app-analytics-services.com
+alipayobjects.com
+alipay.com.cn
 
