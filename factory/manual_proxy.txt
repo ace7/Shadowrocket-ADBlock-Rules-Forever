@@ -487,3 +487,4 @@ cdn-zlib.se
 # Google Services
 googletagmanager.com
 googleadservices.com
+tools.google.com
