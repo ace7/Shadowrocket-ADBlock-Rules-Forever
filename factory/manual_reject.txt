@@ -278,3 +278,6 @@ pglstatp-toutiao.com
 # meituan
 dreport.meituan.net
 d.meituan.net
+
+# app analytics
+app-analytics-services.com
