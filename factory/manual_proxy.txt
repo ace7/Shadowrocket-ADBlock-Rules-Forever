@@ -470,7 +470,7 @@ claude.ai
 anthropic.com
 anthropic.s3.amazonaws.com
 siftscience.com
-app-analytics-services.com
+#app-analytics-services.com
 browser-intake-us5-datadoghq.com
 o1158394.ingest.us.sentry.io
 gstatic.com

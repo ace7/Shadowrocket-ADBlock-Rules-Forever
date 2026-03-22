@@ -6,12 +6,22 @@
 
 DOMAIN-SUFFIX,ampproject.org,PROXY # Google AMP issue#237
 
+{{manual_direct}}
 {{manual_proxy}}
 
 {{manual_reject}}
 
 {{ad}}
 
+DOMAIN-SUFFIX,cn,DIRECT
 GEOIP,CN,DIRECT
+
+IP-CIDR,192.168.0.0/16,DIRECT
+IP-CIDR,10.0.0.0/8,DIRECT
+IP-CIDR,172.16.0.0/12,DIRECT
+IP-CIDR,127.0.0.0/8,DIRECT
+IP-CIDR,fe80::/10,DIRECT
+IP-CIDR,fc00::/7,DIRECT
+IP-CIDR,::1/128,DIRECT
 
 FINAL,proxy
