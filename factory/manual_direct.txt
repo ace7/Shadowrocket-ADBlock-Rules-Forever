@@ -34,6 +34,7 @@ cdn2.apple-mapkit.com
 cdn1.apple-mapkit.com
 cdn4.apple-mapkit.com
 cdn3.apple-mapkit.com
+cdn.apple-mapkit.com
 cds.apple.com
 adcdownload.apple.com
 cl2.apple.com.edgekey.net.globalredir.akadns.net
@@ -149,6 +150,3 @@ doh.pub
 
 # eleme
 rajax.me
-
-# apple mapkit
-cdn.apple-mapkit.com
