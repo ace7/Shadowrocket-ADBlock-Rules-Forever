@@ -146,3 +146,9 @@ doh.pub
 #app-analytics-services.com
 #alipayobjects.com
 #alipay.com.cn
+
+# eleme
+rajax.me
+
+# apple mapkit
+cdn.apple-mapkit.com

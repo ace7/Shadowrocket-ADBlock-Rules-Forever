@@ -281,3 +281,8 @@ d.meituan.net
 
 # app analytics
 app-analytics-services.com
+
+# jingdong & meituan trackers
+jddebug.com
+meituan.httpdns.qcloud.com
+mtvod-ali.meituan.net
