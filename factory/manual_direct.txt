@@ -150,3 +150,9 @@ doh.pub
 
 # eleme
 rajax.me
+
+# Added by user request
+qq.com
+qq.com.cn
+knockdream.com
+
