@@ -101,6 +101,9 @@ www.apple.com
 
 # banks
 # Thanks @magnesia
+hsbc.com
+hsbc.com.sg
+hsbc.com.hk
 paypalobjects.com
 transferwise.com
 
