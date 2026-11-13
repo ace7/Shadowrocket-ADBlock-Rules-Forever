@@ -531,3 +531,17 @@ ttm.financial
 xiaohu8.com
 zhijianfengyi.cn
 zhijianfengyi.com
+
+# Apple Siri & iCloud Private Relay
+aaplimg.com
+apple-relay.fastly-edge.com
+cp4.cloudflare.com
+gateway.icloud.com
+gdmf.apple.com
+guzzoni.apple.com
+ls.apple.com
+mask-h2.icloud.com
+mask.icloud.com
+probe.icloud.com
+siri.apple.com
+smoot.apple.com
